@@ -14,8 +14,6 @@ We're also working on creating a community where you can talk to someone else, s
 
 
 ## Tech - Stack ##
-* Python
-* Jupyter Notebooks
 * Django
 * HTML
 * CSS
